@@ -18,7 +18,7 @@ Here are some of my responsibilities during this project:
 
 note: This was my first website, with nearly no experience. So the code might violate the DRY principle entirely 
 
-mySQL database diagram
+mySQL database diagram <br>
 <img width="806" alt="Screenshot 2024-02-02 at 13 22 15" src="https://github.com/Efe76/ClothingWebsite/assets/78166267/643eaa35-3809-4f55-9898-9ef98f2f78cf">
 
 WEB api
