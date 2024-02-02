@@ -17,5 +17,5 @@ Here are some of my responsibilities during this project:
 
 note: This was my first website, with nearly no experience. So the code might violate the DRY principle entirely 
 
-
+![0202](https://github.com/Efe76/ClothingWebsite/assets/78166267/e00bfde9-d5a2-426b-b2e5-765ae8a59c4a)
 ![0202](https://github.com/Efe76/ClothingWebsite/assets/78166267/c1a29ffa-3ff0-42e6-9013-bee1aaa90677)
