@@ -1,0 +1,95 @@
+/*for parallax scrolling and text on top*/
+.mainimage{
+    background-image:url("../img/p5.jpg");
+    height: 100vh;
+    background-attachment: fixed;
+    background-size: cover;
+    background-size:100% 100%; 
+}
+.imgtxt{
+    padding-top: 25vh;
+    text-align: center;
+    font-size: 6vw;
+    color: white;
+    text-shadow: 0px 0px 3px black;
+}
+.container{
+    background: radial-gradient(black, #081c3c);
+}
+.textbasic{
+    padding-top: 200px;
+    font-size: 2vw;
+    text-align: center;
+}
+.txtpart{
+    text-align: center;
+    padding-left: 30px;
+    color: white;
+    padding-bottom: 20px;
+}
+/*button and animation of said button*/
+button{
+    border: 10px white;
+    border-radius: 100vw;
+    font-size: 3vw;
+    background: linear-gradient(to right, #081c3c 50%, white 50%);
+    background-size: 200% 100%;
+    background-position: right;
+}
+button:hover{
+    background-position: left;
+    transition: all 0.45s ease-out;
+    text-shadow: 0px 0px 3vw white;
+}
+/*used so that links aren't blue and underlined*/
+a.noline{
+    text-decoration: none;
+    display: block;
+    padding: 2vw 4vw;
+    color: black;
+}
+.rightpic img{
+    height: auto;
+    width: 100%;
+}
+.leftpic img{
+    height: auto;
+    width: 100%;
+}
+/*these properties are only active if screen-width greater than 1200px*/
+@media only screen and (min-width: 1200px) {
+    .container{
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        column-gap: 20px;
+        row-gap: 20px;
+        padding-right: 20px;
+        padding-left: 20px;
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+    .textbasic{
+        padding-bottom: 20px;
+    }
+}
+/*these properties are only active if screen-width smaller than 1200px*/
+@media only screen and (max-width:1200px) {
+    .mainimage{
+        height: 40vh;
+    }
+    .leftpic{
+        display: none;
+    } 
+        .imgtxt{
+            padding-top: 25vh;
+        }
+        .textbasic{
+            padding-top: 0px;
+            padding-bottom: 20px;
+        }
+        .txtpart{
+            padding-top: 20px;
+            padding-left: 10px;
+            padding-bottom: 20px;
+        }
+}

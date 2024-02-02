@@ -1,0 +1,127 @@
+/* BODY 1 */
+#body1 {
+    display: grid;
+    text-align: center;
+    background-color: #081c3c;
+    border-bottom: calc(1rem/16) solid #737070;
+    color: white;
+    padding: calc(30rem/16);
+}
+
+#body1 h2 {
+    font-size: calc(20rem/16);
+}
+
+.header-text h1 {
+    font-size: calc(80rem/16);
+}
+
+#cart-container {
+    width: 70%;
+    margin: auto;
+    padding: 20px;
+}
+
+.cart-header {
+    color: black;
+    padding: 10px;
+}
+
+.cartinfo-box {
+    display: flex;
+    height: 500px;
+}
+
+.item-box {
+    flex: 2;
+    padding: 10px;
+    max-height: 400px; 
+    overflow-y: auto;
+}
+
+.payment-box {
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 30px;
+    flex: 1;
+    padding: 10px;
+    background-color: #fff;
+    border: calc(4rem/16) solid #f3f1ef;
+    text-align: center;
+    border-radius: 20px;
+    justify-content: center; 
+    align-items: center; 
+}
+
+.cart-item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.cart-item img {
+    max-width: 100px;
+    margin-right: 20px; 
+}
+
+.cart-item h3, 
+.cart-item p {
+    margin: 0 10px;
+}
+
+button {
+    background-color: white;
+    color: black;
+    border: calc(4rem/16) solid #f3f1ef;
+    border-radius: 8px;
+    cursor: pointer;
+    height: 3.5rem;
+    font-size: calc(18rem/16);
+    width: fit-content;
+    padding: 10px;
+
+}
+
+button:hover {
+    color: white;
+    background-color: #081c3c;
+}
+.cart-header {
+    margin-bottom: 30px;
+}
+.belasting-total {
+    margin-bottom: 30px;
+}
+
+/* Existing styles... */
+
+@media (max-width: 800px) {
+    #cart-container {
+        width: 100%; 
+        padding: 10px; 
+    }
+
+    .cartinfo-box {
+        flex-direction: column; 
+    }
+
+    .item-box, .payment-box {
+        width: 88%; 
+    }
+
+    .cart-item, .cart-item img, .cart-item h3, .cart-item p, .payment-box, .button-box button {
+        font-size: calc(14rem/16);
+    }
+
+
+    button {
+        height: 44px;
+        padding: 2px 4px;
+        font-size: small;
+    }
+
+   
+    .cart-header, .belasting-total {
+        margin-bottom: 17px;
+    }
+}
