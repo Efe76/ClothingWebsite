@@ -1,6 +1,6 @@
 # Clothingwebsite
 
-GreenWear is a fully online and modern clothing store concept, in which u can buy clothes and design your own clothes using a text to image API. It was made during my UVA WebTechKI24 course project for AI students.
+GreenWear is a fully online and modern clothing store concept, in which u can buy clothes and design your own clothes using a text to image API. It was made during my 3 week UVA webtech course project for AI students.
 Tech used: HTML/CSS/JavaScript/PHP/MySQL
 Online soures used: PHPmailer
 
