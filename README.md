@@ -30,6 +30,7 @@ mySQL database diagram <br>
   <img width="400" alt="Sign up" src="https://github.com/Efe76/ClothingWebsite/assets/78166267/1571c629-abc0-402e-986a-b3141fb31424">
   <img width="400" alt="Login" src="https://github.com/Efe76/ClothingWebsite/assets/78166267/c088713e-9229-4b84-a59a-18b9e1db1bc4">
   <img width="400" alt="Contact" src="https://github.com/Efe76/ClothingWebsite/assets/78166267/f713c295-c2dc-4aa1-9297-1d5cec6b4005">
+  <img width="400" alt="User page" src="https://github.com/Efe76/ClothingWebsite/assets/78166267/0e5c34f6-7ae0-42f6-8f9e-3041d2f247df">
   <img width="400" alt="Admin Page" src="https://github.com/Efe76/ClothingWebsite/assets/78166267/278dd41a-f23c-44b5-af09-ca12244987e4">
 </p>
 
