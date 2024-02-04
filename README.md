@@ -19,7 +19,7 @@ Here are some of my responsibilities during this project:
 note: This was my first website, with nearly no experience. So the code might violate the DRY principle entirely 
 
 mySQL database diagram <br>
-<img width="606" alt="Database" src="https://github.com/Efe76/ClothingWebsite/assets/78166267/643eaa35-3809-4f55-9898-9ef98f2f78cf">
+<img width="400" alt="Database" src="https://github.com/Efe76/ClothingWebsite/assets/78166267/643eaa35-3809-4f55-9898-9ef98f2f78cf">
 
 <p float="left">
   <img  width="300" alt="Catalog" src="https://github.com/Efe76/ClothingWebsite/assets/78166267/5c42a648-b403-4174-9f9e-dc8cba9d48c8">
