@@ -20,12 +20,22 @@ note: This was my first website, with nearly no experience. So the code might vi
 
 mySQL database diagram <br>
 <img width="400" alt="Database" src="https://github.com/Efe76/ClothingWebsite/assets/78166267/643eaa35-3809-4f55-9898-9ef98f2f78cf">
+![Login](https://github.com/Efe76/ClothingWebsite/assets/78166267/c088713e-9229-4b84-a59a-18b9e1db1bc4)
+![Contact](https://github.com/Efe76/ClothingWebsite/assets/78166267/f713c295-c2dc-4aa1-9297-1d5cec6b4005)
+![Sign up](https://github.com/Efe76/ClothingWebsite/assets/78166267/1571c629-abc0-402e-986a-b3141fb31424)
+![Cart](https://github.com/Efe76/ClothingWebsite/assets/78166267/af99221f-da78-44da-ab9c-f021b7e89ee5)
 
+![Admin Page](https://github.com/Efe76/ClothingWebsite/assets/78166267/278dd41a-f23c-44b5-af09-ca12244987e4)
 
 <p float="left">
-  <img  width="350" alt="Catalog" src="https://github.com/Efe76/ClothingWebsite/assets/78166267/5c42a648-b403-4174-9f9e-dc8cba9d48c8">
-  <img  width="350" alt="Clothingtemplate" src="https://github.com/Efe76/ClothingWebsite/assets/78166267/46359b44-c2f0-4cf5-9066-2a190417cb26">
-  <img  width="350" alt="Product" src="https://github.com/Efe76/ClothingWebsite/assets/78166267/348680d0-24df-4f8c-87ba-c7d25198c2f7">
+  <img width="350" alt="Catalog" src="https://github.com/Efe76/ClothingWebsite/assets/78166267/5c42a648-b403-4174-9f9e-dc8cba9d48c8">
+  <img width="350" alt="Clothingtemplate" src="https://github.com/Efe76/ClothingWebsite/assets/78166267/46359b44-c2f0-4cf5-9066-2a190417cb26">
+  <img width="350" alt="Product" src="https://github.com/Efe76/ClothingWebsite/assets/78166267/348680d0-24df-4f8c-87ba-c7d25198c2f7">
+  <img width="350" alt="Login" src="https://github.com/Efe76/ClothingWebsite/assets/78166267/c088713e-9229-4b84-a59a-18b9e1db1bc4">
+  <img width="350" alt="Contact" src="https://github.com/Efe76/ClothingWebsite/assets/78166267/f713c295-c2dc-4aa1-9297-1d5cec6b4005">
+  <img width="350" alt="Sign up" src="https://github.com/Efe76/ClothingWebsite/assets/78166267/1571c629-abc0-402e-986a-b3141fb31424">
+  <img width="350" alt="Cart" src="https://github.com/Efe76/ClothingWebsite/assets/78166267/af99221f-da78-44da-ab9c-f021b7e89ee5">
+  <img width="350" alt="Admin Page" src="https://github.com/Efe76/ClothingWebsite/assets/78166267/278dd41a-f23c-44b5-af09-ca12244987e4">
 </p>
 
 <br>
