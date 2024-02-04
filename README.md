@@ -20,6 +20,15 @@ note: This was my first website, with nearly no experience. So the code might vi
 
 mySQL database diagram <br>
 <img width="606" alt="Screenshot 2024-02-02 at 13 22 15" src="https://github.com/Efe76/ClothingWebsite/assets/78166267/643eaa35-3809-4f55-9898-9ef98f2f78cf">
+![Catalog](https://github.com/Efe76/ClothingWebsite/assets/78166267/5c42a648-b403-4174-9f9e-dc8cba9d48c8)
+![Clothing-template](https://github.com/Efe76/ClothingWebsite/assets/78166267/8e63020b-10a3-45c2-867b-6087ba748875)
+<p float="left">
+
+
+  <img src="/img1.png" width="100" />
+  <img src="/img2.png" width="100" /> 
+  <img src="/img3.png" width="100" />
+</p>
 
 WEB api
 ![0202](https://github.com/Efe76/ClothingWebsite/assets/78166267/b299d70c-26e6-4858-9a07-63877ec8d18a)
