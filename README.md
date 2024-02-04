@@ -21,11 +21,13 @@ note: This was my first website, with nearly no experience. So the code might vi
 mySQL database diagram <br>
 <img width="400" alt="Database" src="https://github.com/Efe76/ClothingWebsite/assets/78166267/643eaa35-3809-4f55-9898-9ef98f2f78cf">
 
+
 <p float="left">
-  <img  width="300" alt="Catalog" src="https://github.com/Efe76/ClothingWebsite/assets/78166267/5c42a648-b403-4174-9f9e-dc8cba9d48c8">
-  <img  width="300" alt="Catalog" src="https://github.com/Efe76/ClothingWebsite/assets/78166267/5c42a648-b403-4174-9f9e-dc8cba9d48c8">
-  <img  width="300" alt="Product" src="https://github.com/Efe76/ClothingWebsite/assets/78166267/348680d0-24df-4f8c-87ba-c7d25198c2f7">
+  <img  width="350" alt="Catalog" src="https://github.com/Efe76/ClothingWebsite/assets/78166267/5c42a648-b403-4174-9f9e-dc8cba9d48c8">
+  <img  width="350" alt="Clothingtemplate" src="https://github.com/Efe76/ClothingWebsite/assets/78166267/46359b44-c2f0-4cf5-9066-2a190417cb26">
+  <img  width="350" alt="Product" src="https://github.com/Efe76/ClothingWebsite/assets/78166267/348680d0-24df-4f8c-87ba-c7d25198c2f7">
 </p>
+
 <br>
 <br>
 <br>
