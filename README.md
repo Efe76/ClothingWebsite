@@ -19,15 +19,14 @@ Here are some of my responsibilities during this project:
 note: This was my first website, with nearly no experience. So the code might violate the DRY principle entirely 
 
 mySQL database diagram <br>
-<img width="606" alt="Screenshot 2024-02-02 at 13 22 15" src="https://github.com/Efe76/ClothingWebsite/assets/78166267/643eaa35-3809-4f55-9898-9ef98f2f78cf">
-![Catalog](https://github.com/Efe76/ClothingWebsite/assets/78166267/5c42a648-b403-4174-9f9e-dc8cba9d48c8)
-![Clothing-template](https://github.com/Efe76/ClothingWebsite/assets/78166267/8e63020b-10a3-45c2-867b-6087ba748875)
+<img width="606" alt="Database" src="https://github.com/Efe76/ClothingWebsite/assets/78166267/643eaa35-3809-4f55-9898-9ef98f2f78cf">
+<img alt="Catalog" src="https://github.com/Efe76/ClothingWebsite/assets/78166267/5c42a648-b403-4174-9f9e-dc8cba9d48c8">
+<img alt="Clothing-template" src="https://github.com/Efe76/ClothingWebsite/assets/78166267/8e63020b-10a3-45c2-867b-6087ba748875">
+
 <p float="left">
-
-
-  <img src="/img1.png" width="100" />
-  <img src="/img2.png" width="100" /> 
-  <img src="/img3.png" width="100" />
+  <img alt="Catalog" src="https://github.com/Efe76/ClothingWebsite/assets/78166267/5c42a648-b403-4174-9f9e-dc8cba9d48c8">
+  <img alt="Catalog" src="https://github.com/Efe76/ClothingWebsite/assets/78166267/5c42a648-b403-4174-9f9e-dc8cba9d48c8">
+  <img alt="Product" src="https://github.com/Efe76/ClothingWebsite/assets/78166267/348680d0-24df-4f8c-87ba-c7d25198c2f7">
 </p>
 
 WEB api
