@@ -22,11 +22,13 @@ mySQL database diagram <br>
 <img width="606" alt="Database" src="https://github.com/Efe76/ClothingWebsite/assets/78166267/643eaa35-3809-4f55-9898-9ef98f2f78cf">
 
 <p float="left">
-  <img  width="200" alt="Catalog" src="https://github.com/Efe76/ClothingWebsite/assets/78166267/5c42a648-b403-4174-9f9e-dc8cba9d48c8">
-  <img  width="200" alt="Catalog" src="https://github.com/Efe76/ClothingWebsite/assets/78166267/5c42a648-b403-4174-9f9e-dc8cba9d48c8">
-  <img  width="200" alt="Product" src="https://github.com/Efe76/ClothingWebsite/assets/78166267/348680d0-24df-4f8c-87ba-c7d25198c2f7">
+  <img  width="300" alt="Catalog" src="https://github.com/Efe76/ClothingWebsite/assets/78166267/5c42a648-b403-4174-9f9e-dc8cba9d48c8">
+  <img  width="300" alt="Catalog" src="https://github.com/Efe76/ClothingWebsite/assets/78166267/5c42a648-b403-4174-9f9e-dc8cba9d48c8">
+  <img  width="300" alt="Product" src="https://github.com/Efe76/ClothingWebsite/assets/78166267/348680d0-24df-4f8c-87ba-c7d25198c2f7">
 </p>
-
+<br>
+<br>
+<br>
 WEB api
 ![0202](https://github.com/Efe76/ClothingWebsite/assets/78166267/b299d70c-26e6-4858-9a07-63877ec8d18a)
 
