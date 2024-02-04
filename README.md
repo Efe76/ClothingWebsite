@@ -20,8 +20,6 @@ note: This was my first website, with nearly no experience. So the code might vi
 
 mySQL database diagram <br>
 <img width="606" alt="Database" src="https://github.com/Efe76/ClothingWebsite/assets/78166267/643eaa35-3809-4f55-9898-9ef98f2f78cf">
-<img alt="Catalog" src="https://github.com/Efe76/ClothingWebsite/assets/78166267/5c42a648-b403-4174-9f9e-dc8cba9d48c8">
-<img alt="Clothing-template" src="https://github.com/Efe76/ClothingWebsite/assets/78166267/8e63020b-10a3-45c2-867b-6087ba748875">
 
 <p float="left">
   <img width="100" alt="Catalog" src="https://github.com/Efe76/ClothingWebsite/assets/78166267/5c42a648-b403-4174-9f9e-dc8cba9d48c8">
