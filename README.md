@@ -23,11 +23,8 @@ mySQL database diagram <br>
 
 <p float="left">
   Some of the website pages that i think are worth showing <br>
-  signup.php
   <img width="400" alt="Sign up" src="https://github.com/Efe76/ClothingWebsite/assets/78166267/1571c629-abc0-402e-986a-b3141fb31424">
-  signup.php
   <img width="400" alt="Login" src="https://github.com/Efe76/ClothingWebsite/assets/78166267/c088713e-9229-4b84-a59a-18b9e1db1bc4">
-  signup.php
   <img width="400" alt="Catalog" src="https://github.com/Efe76/ClothingWebsite/assets/78166267/5c42a648-b403-4174-9f9e-dc8cba9d48c8">
   <img width="400" alt="Clothingtemplate" src="https://github.com/Efe76/ClothingWebsite/assets/78166267/46359b44-c2f0-4cf5-9066-2a190417cb26">
   <img width="400" alt="Product" src="https://github.com/Efe76/ClothingWebsite/assets/78166267/348680d0-24df-4f8c-87ba-c7d25198c2f7">
