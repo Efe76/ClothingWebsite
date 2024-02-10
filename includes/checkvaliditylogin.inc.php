@@ -27,7 +27,7 @@ function log_validuser_in($sqliconn, $email, $pw, $rememberMe) {
 
     // If email isnt in database, send user back to login page with a error
     if (!$user) {
-        header("Location: ../login.php?error=name-or-pw-is-wrong");
+        header("Location: ../login.php?error=email-or-pw-is-wrong");
         die();
     }
 
