@@ -10,7 +10,7 @@ Here are some of my responsibilities during this project:
     Set up the the logout and delete account scripts (PHP)
     Created the admin system to see a overview of the products in catalog, delete and add products in the Admin Page (mySQL,PHP)
     Created both the login and sign up system, including validation. added form user-friendliness, retain correct signup inputs in the case of a signup error. (mySQL,PHP,JS)
-    Created the rememberme function using PHPcookies (mySQL,PHP)
+    Created the rememberme function using COOKIES (mySQL,PHP)
     Did the PHP part of the design page with the text2img API in it. Saving the img, category, and user who created it in mySQL and adding it to the catalog. (PHP)
     Created the ShoppingCart system, adding to cart, removing from cart and checking out (PHP)
     Changed the default session_start() of PHP so that it regenerates sessionID every hour. file name: securesession.inc.php. (PHP)
