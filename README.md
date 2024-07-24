@@ -20,6 +20,7 @@ mySQL database diagram <br>
 
 <p float="left">
   Some of the website pages that i think are worth showing <br>
+  <img width="400" height="250" alt="Home" src="https://github.com/user-attachments/assets/db78ba42-db31-447e-8e6f-300f6f055c40">
   <img width="400" height="250" alt="Sign up" src="https://github.com/Efe76/ClothingWebsite/assets/78166267/1571c629-abc0-402e-986a-b3141fb31424">
   <img width="400" height="250" alt="Login" src="https://github.com/Efe76/ClothingWebsite/assets/78166267/c088713e-9229-4b84-a59a-18b9e1db1bc4">
   <img width="400" height="250" alt="Catalog" src="https://github.com/Efe76/ClothingWebsite/assets/78166267/5c42a648-b403-4174-9f9e-dc8cba9d48c8">
